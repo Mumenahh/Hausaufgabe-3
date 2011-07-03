@@ -1,0 +1,3 @@
+Ich habe zwei Datentabellen angelegt einmal Graphs und einmal Rute.
+Ueber die variable f auf der home seite wird der Application-Helper abgefragt,
+und dort steht dann die eingentliche Berechnungen der Ruten.
